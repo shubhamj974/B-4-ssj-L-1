@@ -1,0 +1,23 @@
+.contact{
+    .forms{
+        .contact-heading{
+            font-size: 32px;
+        }
+    }
+}
+
+
+@import './abstract/var';
+@import './abstract/mixin';
+
+
+
+@import './component/navbar';
+
+
+@import './pages/home';
+
+@import './pages/about-us'
+
+
+
